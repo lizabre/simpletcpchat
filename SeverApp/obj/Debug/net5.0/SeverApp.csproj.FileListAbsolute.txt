@@ -1,0 +1,17 @@
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\bin\Debug\net5.0\SeverApp.exe
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\bin\Debug\net5.0\setting.txt
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\bin\Debug\net5.0\SeverApp.deps.json
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\bin\Debug\net5.0\SeverApp.runtimeconfig.json
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\bin\Debug\net5.0\SeverApp.runtimeconfig.dev.json
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\bin\Debug\net5.0\SeverApp.dll
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\bin\Debug\net5.0\ref\SeverApp.dll
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\bin\Debug\net5.0\SeverApp.pdb
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\obj\Debug\net5.0\SeverApp.csproj.AssemblyReference.cache
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\obj\Debug\net5.0\SeverApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\obj\Debug\net5.0\SeverApp.AssemblyInfoInputs.cache
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\obj\Debug\net5.0\SeverApp.AssemblyInfo.cs
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\obj\Debug\net5.0\SeverApp.csproj.CoreCompileInputs.cache
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\obj\Debug\net5.0\SeverApp.dll
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\obj\Debug\net5.0\ref\SeverApp.dll
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\obj\Debug\net5.0\SeverApp.pdb
+C:\self-studyings\StepIT\C#\SImpleTCPChat\SeverApp\obj\Debug\net5.0\SeverApp.genruntimeconfig.cache

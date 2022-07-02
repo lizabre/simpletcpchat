@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Controls;
+
+namespace ClientWPF
+{
+    public class MessageView//показ повідомлення
+    {
+        public string Text { get; set; }//текстове повідомлення
+        public Image Image { get; set; }//фото
+    }
+}
